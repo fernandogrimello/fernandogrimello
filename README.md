@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Fernando Grimello
+# 👋 Olá, eu sou Fernando Grimello
 
 **Desenvolvedor Full-Stack em formação**  
 📍 Brasília – GMT-3  
@@ -7,6 +7,7 @@
 
 ### 🛠️ Tecnologias em meus repositórios
 - **HTML**
+- **CSS**
 - **Java**
 - **JavaScript**
 - **MySQL**
