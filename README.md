@@ -12,6 +12,9 @@
 - **JavaScript**
 - **MySQL**
 - **C**
+- **React**
+- **Node.js**
+  
 
 ---
 
