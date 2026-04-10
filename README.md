@@ -1,35 +1,47 @@
-# 👋 Olá, eu sou Fernando Grimello
+# 👋 Olá, eu sou Luiz Fernando Grimello
 
-**Desenvolvedor Full-Stack em formação**  
-📍 Brasília – GMT-3  
-
----
-
-### 🛠️ Tecnologias em meus repositórios
-- **HTML**
-- **CSS**
-- **Java**
-- **JavaScript**
-- **MySQL**
-- **C**
-- **React**
-- **Node.js**
-  
+💻 **Desenvolvedor Fullstack em formação**  
+📍 Brasília – DF  
 
 ---
 
-### 🌱 Sobre mim
-Apaixonado por tecnologia e sempre aprendendo novas ferramentas para desenvolvimento web e de sistemas.
+## 🚀 Projeto em destaque
+
+### AppFreela Platform
+Plataforma fullstack que conecta contratantes a profissionais autônomos.
+
+🔗 https://appfreela.onrender.com/
+
+- Sistema completo de agendamento de serviços
+- Chat entre usuários
+- Avaliações e reputação
+- Mediação de conflitos
 
 ---
 
-### 🔗 Contato
-- **LinkedIn:** [luiz-fernando-grimello](https://www.linkedin.com/in/luiz-fernando-grimello-6568b4358)
-- **GitHub:** [fernandogrimello](https://github.com/fernandogrimello)
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express
+- MySQL
+- Git & GitHub
 
 ---
 
-<!-- Estatísticas opcionais: descomente se quiser exibir -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandogrimello&show_icons=true&theme=default&hide_border=true)
--->
+## 🧠 Sobre mim
+
+Desenvolvedor focado na construção de aplicações web completas, com experiência prática em desenvolvimento fullstack utilizando Node.js, JavaScript e MySQL.
+
+Atualmente trabalhando no projeto **AppFreela**, uma plataforma de marketplace com funcionalidades reais como autenticação, chat, agendamento e mediação de serviços.
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/luiz-fernando-grimello-6568b4358  
+- **GitHub:** https://github.com/fernandogrimello  
+
+---
