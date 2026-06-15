@@ -9,7 +9,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ##  Projetos em Destaque
 
-### 🔗 [AppFreela](https://appfreela.onrender.com/)
+###  [AppFreela](https://appfreela.onrender.com/)
 > Plataforma fullstack de marketplace que conecta contratantes a profissionais autônomos.
 
 - Autenticação com JWT e controle de acesso por perfil (contratante / profissional / admin)
@@ -25,7 +25,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ---
 
-### 🎤 Sistema SaaS — Em desenvolvimento (privado)
+###  Sistema SaaS — Em desenvolvimento (privado)
 > Plataforma SaaS com arquitetura em tempo real, voltada para gestão de filas dinâmicas.
 
 - Painéis interativos por tipo de usuário
