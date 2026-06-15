@@ -7,7 +7,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### 🔗 [AppFreela](https://appfreela.onrender.com/)
 > Plataforma fullstack de marketplace que conecta contratantes a profissionais autônomos.
@@ -37,7 +37,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ---
 
-### 🎶 RouletApp — Sistema de Karaokê (privado)
+###  RouletApp — Sistema de Karaokê (privado)
 > SaaS de gestão de filas de karaokê para bares e casas noturnas.
 
 - Arquitetura de Guest + Visit para check-ins recorrentes de clientes
@@ -52,7 +52,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ---
 
-### 🔥 Forno Fácil
+###  Forno Fácil
 > Aplicativo mobile para controle de forno elétrico via NFC, voltado para idosos (modelo B2B vendido junto ao forno).
 
 - App em React Native + Expo, com interface simplificada e acessível
@@ -65,7 +65,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 
 ---
 
-## 🧪 Testes & Qualidade de Software
+##  Testes & Qualidade de Software
 
 Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo desde unidades isoladas de código até fluxos completos do usuário no navegador.
 
@@ -80,7 +80,7 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -116,15 +116,15 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 
 ---
 
-## 📚 Formação & Certificações
+##  Formação & Certificações
 
-- 🎓 **Desenvolvimento de Sistemas** — SENAC Brasília *(jan/2025 – jul/2026)*
-- ☁️ **AWS Cloud Essentials Knowledge Badge** — Amazon Web Services *(2025)*
-- ☁️ **AWS Foundations: Getting Started** — Amazon Web Services *(2025)*
-- 🌐 **JavaScript ES6+** — Cisco Networking Academy *(2025)*
-- 🎨 **CSS3 — Flexbox, Grid e Responsividade** — Cisco Networking Academy *(2025)*
-- 📄 **HTML5 — Fundamentos e Boas Práticas** — Cisco Networking Academy *(2025)*
-- 🖥️ **Operating Systems Basics** — Cisco Networking Academy *(2025)*
+-  **Desenvolvimento de Sistemas** — SENAC Brasília *(jan/2025 – jul/2026)*
+-  **AWS Cloud Essentials Knowledge Badge** — Amazon Web Services *(2025)*
+-  **AWS Foundations: Getting Started** — Amazon Web Services *(2025)*
+-  **JavaScript ES6+** — Cisco Networking Academy *(2025)*
+-  **CSS3 — Flexbox, Grid e Responsividade** — Cisco Networking Academy *(2025)*
+-  **HTML5 — Fundamentos e Boas Práticas** — Cisco Networking Academy *(2025)*
+-  **Operating Systems Basics** — Cisco Networking Academy *(2025)*
 
 ---
 
