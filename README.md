@@ -19,6 +19,7 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 - Notificações e lembretes automáticos via cron job
 - Geolocalização de profissionais
 - Deploy na nuvem: **Render + TiDB Cloud**
+- Cobertura de testes com **Jest** (testes unitários) e **Playwright** (testes E2E)
 
 **Stack:** Node.js · Express · JavaScript · MySQL · JWT · Cloudinary · HTML5 · CSS3
 
@@ -33,6 +34,49 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 - Frontend em React + Vite + Tailwind CSS
 
 **Stack:** Node.js · Express · Socket.io · React · Vite · Tailwind CSS · PostgreSQL · Prisma ORM
+
+---
+
+### 🎶 RouletApp — Sistema de Karaokê (privado)
+> SaaS de gestão de filas de karaokê para bares e casas noturnas.
+
+- Arquitetura de Guest + Visit para check-ins recorrentes de clientes
+- Suporte multi-estabelecimento e multi-sala com URLs dinâmicas por slug
+- Autenticação JWT com seis níveis de permissão
+- Fluxo de "roleta" do KJ: sorteio → confirmação de quem cantou / ausência
+- Eventos em tempo real via Socket.IO segmentados por sala
+- Página de recepção com validação de CPF/telefone
+- Painel do proprietário com resumos financeiros e gestão de equipe
+
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · Socket.IO · Prisma · PostgreSQL
+
+---
+
+### 🔥 Forno Fácil
+> Aplicativo mobile para controle de forno elétrico via NFC, voltado para idosos (modelo B2B vendido junto ao forno).
+
+- App em React Native + Expo, com interface simplificada e acessível
+- Controle do forno via NFC, integrado a firmware ESP32 (WiFi, MQTT, NFC e relé)
+- Sistema de som com feedback de voz/áudio (expo-av)
+- Animações para guiar o usuário durante o uso
+- Projeto de hardware: diagramas de fiação e lista de componentes
+
+**Stack:** React Native · Expo · ESP32 (WiFi/MQTT/NFC) · expo-av
+
+---
+
+## 🧪 Testes & Qualidade de Software
+
+Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo desde unidades isoladas de código até fluxos completos do usuário no navegador.
+
+- **Testes Unitários** — desenvolvidos com **Jest**, cobrindo controllers, services e regras de negócio do backend.
+- **Testes End-to-End (E2E)** — desenvolvidos com **Playwright**, simulando fluxos reais de usuário (login, cadastro, agendamentos, notificações, módulo administrativo).
+- **Testes E2E / Automação de navegador** — experiência também com **Selenium** para automação e testes em diferentes navegadores.
+- Suítes organizadas por módulo (login, dashboard, notificações, administração), com execução individual e em lote.
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -54,6 +98,11 @@ Desenvolvedor com experiência prática na construção de aplicações web comp
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Testes
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Design & Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
