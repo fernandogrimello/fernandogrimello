@@ -3,7 +3,7 @@
 **Desenvolvedor Web Full Stack**  
 📍 Brasília – DF &nbsp;|&nbsp; 📧 fernandogrimello@gmail.com
 
-Desenvolvedor com experiência prática na construção de aplicações web completas, do banco de dados à interface. Trabalho com Node.js, React, JavaScript e SQL, com atenção especial à experiência do usuário e à qualidade do código. Atualmente cursando **Desenvolvimento de Sistemas no SENAC** (conclusão prevista: jul/2026), com interesse em expandir atuação para sistemas embarcados e IoT, incluindo plataformas como Arduino.
+Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento de software — da modelagem do banco de dados à entrega de interfaces modernas, responsivas e acessíveis. Atuo com **Node.js, React, TypeScript e SQL**, aplicando boas práticas de código, testes automatizados (unitários e E2E) e deploy em nuvem. Tenho experiência em projetos reais que envolvem autenticação segura com JWT, comunicação em tempo real com Socket.IO, integração com APIs externas, arquitetura SaaS e desenvolvimento mobile com React Native. Perfil orientado à qualidade de entrega, aprendizado contínuo e colaboração em equipe. Atualmente cursando **Desenvolvimento de Sistemas no SENAC** (conclusão prevista: jul/2026).
 
 ---
 
