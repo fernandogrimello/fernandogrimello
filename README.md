@@ -9,8 +9,11 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 
 ##  Projetos em Destaque
 
-###  [AppFreela](https://appfreela.onrender.com/)
+###  AppFreela
 > Plataforma fullstack de marketplace que conecta contratantes a profissionais autônomos.
+
+🔗 [Demo ao vivo](https://appfreela.onrender.com/) · [Documentação técnica](https://github.com/fernandogrimello/appfreela-showcase)
+> Código-fonte privado a pedido da instituição de ensino (projeto de TCC).
 
 - Autenticação com JWT e controle de acesso por perfil (contratante / profissional / admin)
 - Sistema completo de agendamentos com fluxo de estados (pendente → confirmado → concluído)
@@ -55,8 +58,11 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 ###  Forno Fácil
 > Aplicativo mobile para controle de forno elétrico via NFC, voltado para idosos (modelo B2B vendido junto ao forno).
 
+🔗 [Documentação e demonstração](https://github.com/fernandogrimello/forno-facil-showcase)
+> Código-fonte privado — produto com modelo de negócio comercial.
+
 - App em React Native + Expo, com interface simplificada e acessível
-- Controle do forno via NFC, integrado a firmware ESP32 (WiFi, MQTT, NFC e relé)
+- Controle do forno via NFC, com firmware ESP32 (WiFi, MQTT, NFC e relé) desenvolvido em paralelo
 - Sistema de som com feedback de voz/áudio (expo-av)
 - Animações para guiar o usuário durante o uso
 - Projeto de hardware: diagramas de fiação e lista de componentes
