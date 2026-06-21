@@ -29,29 +29,16 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 ---
 
 ###  Sistema SaaS — Em desenvolvimento (privado)
-> Plataforma SaaS com arquitetura em tempo real, voltada para gestão de filas dinâmicas.
+> Plataforma SaaS com arquitetura em tempo real e suporte a múltiplos clientes (multi-tenant).
 
-- Painéis interativos por tipo de usuário
-- Comunicação em tempo real com Socket.io
+- Arquitetura multi-tenant com roteamento dinâmico por cliente/ambiente
+- Autenticação JWT com múltiplos níveis de permissão
+- Comunicação em tempo real via Socket.io, segmentada por ambiente
+- Painéis interativos por tipo de usuário, incluindo resumos financeiros e gestão de equipe
 - Banco de dados PostgreSQL hospedado no Neon (São Paulo)
 - Frontend em React + Vite + Tailwind CSS
 
 **Stack:** Node.js · Express · Socket.io · React · Vite · Tailwind CSS · PostgreSQL · Prisma ORM
-
----
-
-###  RouletApp — Sistema de Karaokê (privado)
-> SaaS de gestão de filas de karaokê para bares e casas noturnas.
-
-- Arquitetura de Guest + Visit para check-ins recorrentes de clientes
-- Suporte multi-estabelecimento e multi-sala com URLs dinâmicas por slug
-- Autenticação JWT com seis níveis de permissão
-- Fluxo de "roleta" do KJ: sorteio → confirmação de quem cantou / ausência
-- Eventos em tempo real via Socket.IO segmentados por sala
-- Página de recepção com validação de CPF/telefone
-- Painel do proprietário com resumos financeiros e gestão de equipe
-
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express · Socket.IO · Prisma · PostgreSQL
 
 ---
 
