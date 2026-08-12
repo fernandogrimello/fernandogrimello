@@ -28,17 +28,18 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 
 ---
 
-###  Sistema SaaS — Em desenvolvimento (privado)
-> Plataforma SaaS com arquitetura em tempo real e suporte a múltiplos clientes (multi-tenant).
-
+###  Sistema ERP Vertical — Em desenvolvimento (privado)
+> Plataforma com arquitetura em tempo real voltada para gestão operacional completa de estabelecimentos, evoluindo de SaaS para ERP vertical com suporte a múltiplos clientes (multi-tenant).
 - Arquitetura multi-tenant com roteamento dinâmico por cliente/ambiente
-- Autenticação JWT com múltiplos níveis de permissão
-- Comunicação em tempo real via Socket.io, segmentada por ambiente
-- Painéis interativos por tipo de usuário, incluindo resumos financeiros e gestão de equipe
+- Autenticação JWT com múltiplos níveis de permissão hierárquica
+- Comunicação em tempo real via Socket.IO, segmentada por sala e ambiente
+- Painéis interativos por perfil de usuário, com gestão operacional, financeira e de equipe
+- Módulos de controle de estoque (FIFO), financeiro (DRE, fluxo de caixa), CRM analítico e escala de funcionários com ponto eletrônico
 - Banco de dados PostgreSQL hospedado no Neon (São Paulo)
 - Frontend em React + Vite + Tailwind CSS
 
-**Stack:** Node.js · Express · Socket.io · React · Vite · Tailwind CSS · PostgreSQL · Prisma ORM
+
+**Stack:** Node.js · Express · Socket.IO · React · Vite · Tailwind CSS · PostgreSQL · Prisma ORM · JWT
 
 ---
 
