@@ -38,7 +38,6 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 - Banco de dados PostgreSQL hospedado no Neon (São Paulo)
 - Frontend em React + Vite + Tailwind CSS
 
-
 **Stack:** Node.js · Express · Socket.IO · React · Vite · Tailwind CSS · PostgreSQL · Prisma ORM · JWT
 
 ---
@@ -64,13 +63,17 @@ Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento 
 Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo desde unidades isoladas de código até fluxos completos do usuário no navegador.
 
 - **Testes Unitários** — desenvolvidos com **Jest**, cobrindo controllers, services e regras de negócio do backend.
+- **Testes de Integração de API** — desenvolvidos com **Supertest**, testando rotas HTTP reais do Express sem subir o servidor.
 - **Testes End-to-End (E2E)** — desenvolvidos com **Playwright**, simulando fluxos reais de usuário (login, cadastro, agendamentos, notificações, módulo administrativo).
 - **Testes E2E / Automação de navegador** — experiência também com **Selenium** para automação e testes em diferentes navegadores.
+- **Testes de Performance** — desenvolvidos com **k6**, cobrindo cenários de carga (load), estresse (stress), pico (spike) e resistência (soak).
 - Suítes organizadas por módulo (login, dashboard, notificações, administração), com execução individual e em lote.
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 ---
 
@@ -82,6 +85,7 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Mobile
@@ -93,6 +97,7 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
@@ -102,8 +107,10 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 
 ### Testes
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 ### Design & Ferramentas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -111,9 +118,11 @@ Aplico testes automatizados como parte do fluxo de desenvolvimento, cobrindo des
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Cloud
+### Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
