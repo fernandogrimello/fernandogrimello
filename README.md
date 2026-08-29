@@ -1,9 +1,13 @@
 # Olá, eu sou Luiz Fernando Grimello 👋
 
-**Desenvolvedor Web Full Stack**  
+**Desenvolvedor Full Stack | IA & Automação**  
 📍 Brasília – DF &nbsp;|&nbsp; 📧 fernandogrimello@gmail.com
 
-Desenvolvedor Web Full Stack com vivência no ciclo completo de desenvolvimento de software — da modelagem do banco de dados à entrega de interfaces modernas, responsivas e acessíveis. Atuo com **Node.js, React, TypeScript e SQL**, aplicando boas práticas de código, testes automatizados (unitários e E2E) e deploy em nuvem. Tenho experiência em projetos reais que envolvem autenticação segura com JWT, comunicação em tempo real com Socket.IO, integração com APIs externas, arquitetura SaaS e desenvolvimento mobile com React Native. Perfil orientado à qualidade de entrega, aprendizado contínuo e colaboração em equipe. Atualmente cursando **Desenvolvimento de Sistemas no SENAC** (conclusão prevista: jul/2026).
+Desenvolvedor Full Stack com experiência no ciclo completo de desenvolvimento de software — da modelagem do banco de dados à entrega de interfaces modernas, responsivas e acessíveis. Atuo com **Node.js, TypeScript, React e PostgreSQL**, aplicando boas práticas de engenharia, testes automatizados (unitários, E2E e performance) e deploy em nuvem.
+
+Tenho experiência em projetos reais que envolvem autenticação JWT, comunicação em tempo real com Socket.IO, arquitetura SaaS multi-tenant, desenvolvimento mobile com React Native e integração de **agentes de IA com Google Gemini e OpenClaw**. Construo automações de processos com **n8n**, integrações com WhatsApp via API e gateways de agentes capazes de classificar, responder e executar ações operacionais de forma autônoma.
+
+Perfil orientado à qualidade de entrega, aprendizado contínuo e resolução criativa de problemas. Técnico em Desenvolvimento de Sistemas formado pelo SENAC (2026). Atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAC** (conclusão prevista: ago/2028).
 
 ---
 
